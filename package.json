@@ -1,0 +1,21 @@
+{
+  "name": "epoch-to-timestamp",
+  "version": "0.0.1",
+  "description": "Converts epoch in s or ms to iso 8601 timestamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hranum/epoch-to-timestamp.git"
+  },
+  "author": "Haakon Ranum <haakon.ranum@gmail.com> (https://github.com/hranum)",
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "jest": "^27.1.1"
+  }
+}
